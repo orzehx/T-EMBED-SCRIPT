@@ -1,2 +1,2 @@
 # T-EMBED-SCRIPT
-no real
+T-embed scripts for educational purposes only
